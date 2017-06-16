@@ -1,0 +1,2 @@
+# plugo
+golang plugin framework
